@@ -4,6 +4,7 @@ import numpy as np
 from pytz import timezone
 from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import json
 
 
 def fetch_stock_data(symbol, period="5d", interval="1h"):
@@ -82,19 +83,60 @@ def get_last_signal(symbol):
 def process_symbol(symbol):
     try:
         last_signal = get_last_signal(symbol)
-        return f"{symbol}: Last signal was {last_signal}"
+        signal_type, candles_ago = parse_signal(last_signal)
+        return {
+            "symbol": symbol,
+            "signal_type": signal_type,
+            "candles_ago": candles_ago,
+            "full_message": f"{symbol}: Last signal was {last_signal}"
+        }
     except Exception as e:
-        return f"Error processing {symbol}: {str(e)}"
+        return {
+            "symbol": symbol,
+            "signal_type": "Error",
+            "candles_ago": float('inf'),
+            "full_message": f"Error processing {symbol}: {str(e)}"
+        }
+
+
+def parse_signal(signal):
+    if signal == "No Signal":
+        return "No Signal", float('inf')
+    parts = signal.split()
+    signal_type = parts[0]
+    candles_ago = int(parts[-3])
+    return signal_type, candles_ago
 
 
 def main():
-    symbols = ["HDFCBANK.NS", "RELIANCE.NS", "TCS.NS"]  # Add more symbols here, up to 50
-    
+    symbols = [
+        "ADANIENT.NS", "ADANIPORTS.NS", "APOLLOHOSP.NS", "ASIANPAINT.NS", "AXISBANK.NS",
+        "BAJAJ-AUTO.NS", "BAJFINANCE.NS", "BAJAJFINSV.NS", "BPCL.NS", "BHARTIARTL.NS",
+        "BRITANNIA.NS", "CIPLA.NS", "COALINDIA.NS", "DIVISLAB.NS", "DRREDDY.NS",
+        "EICHERMOT.NS", "GRASIM.NS", "HCLTECH.NS", "HDFCBANK.NS", "HDFCLIFE.NS",
+        "HEROMOTOCO.NS", "HINDALCO.NS", "HINDUNILVR.NS", "ICICIBANK.NS", "ITC.NS",
+        "INDUSINDBK.NS", "INFY.NS", "JSWSTEEL.NS", "KOTAKBANK.NS", "LT.NS",
+        "M&M.NS", "MARUTI.NS", "NTPC.NS", "NESTLEIND.NS", "ONGC.NS",
+        "POWERGRID.NS", "RELIANCE.NS", "SBILIFE.NS", "SBIN.NS", "SUNPHARMA.NS",
+        "TCS.NS", "TATACONSUM.NS", "TATAMOTORS.NS", "TATASTEEL.NS", "TECHM.NS",
+        "TITAN.NS", "UPL.NS", "ULTRACEMCO.NS", "WIPRO.NS", "ZOMATO.NS"
+    ]
+
+    results = []
     with ThreadPoolExecutor(max_workers=10) as executor:
         futures = [executor.submit(process_symbol, symbol) for symbol in symbols]
-        
+
         for future in as_completed(futures):
-            print(future.result())
+            results.append(future.result())
+
+    # Sort results based on candles_ago
+    sorted_results = sorted(results, key=lambda x: x['candles_ago'])
+
+    # Convert to JSON and save to file
+    with open('stock_signals.json', 'w') as f:
+        json.dump(sorted_results, f, indent=2)
+
+    print("Results have been saved to stock_signals.json")
 
 
 if __name__ == "__main__":
