@@ -1,302 +1,302 @@
 [
   {
-    "symbol": "HEROMOTOCO.NS",
-    "signal_type": "Sell",
-    "candles_ago": 0,
-    "full_message": "HEROMOTOCO.NS: Last signal was Sell (last signal 0 candles ago)"
-  },
-  {
-    "symbol": "INFY.NS",
-    "signal_type": "Buy",
-    "candles_ago": 0,
-    "full_message": "INFY.NS: Last signal was Buy (last signal 0 candles ago)"
-  },
-  {
-    "symbol": "COALINDIA.NS",
-    "signal_type": "Sell",
-    "candles_ago": 1,
-    "full_message": "COALINDIA.NS: Last signal was Sell (last signal 1 candles ago)"
-  },
-  {
-    "symbol": "EICHERMOT.NS",
-    "signal_type": "Sell",
-    "candles_ago": 1,
-    "full_message": "EICHERMOT.NS: Last signal was Sell (last signal 1 candles ago)"
-  },
-  {
-    "symbol": "ICICIBANK.NS",
-    "signal_type": "Buy",
-    "candles_ago": 1,
-    "full_message": "ICICIBANK.NS: Last signal was Buy (last signal 1 candles ago)"
-  },
-  {
-    "symbol": "TATACONSUM.NS",
-    "signal_type": "Sell",
-    "candles_ago": 1,
-    "full_message": "TATACONSUM.NS: Last signal was Sell (last signal 1 candles ago)"
-  },
-  {
-    "symbol": "WIPRO.NS",
-    "signal_type": "Buy",
-    "candles_ago": 1,
-    "full_message": "WIPRO.NS: Last signal was Buy (last signal 1 candles ago)"
-  },
-  {
-    "symbol": "DIVISLAB.NS",
+    "symbol": "CIPLA.NS",
     "signal_type": "Sell",
     "candles_ago": 2,
-    "full_message": "DIVISLAB.NS: Last signal was Sell (last signal 2 candles ago)"
-  },
-  {
-    "symbol": "CIPLA.NS",
-    "signal_type": "Buy",
-    "candles_ago": 5,
-    "full_message": "CIPLA.NS: Last signal was Buy (last signal 5 candles ago)"
-  },
-  {
-    "symbol": "ONGC.NS",
-    "signal_type": "Buy",
-    "candles_ago": 5,
-    "full_message": "ONGC.NS: Last signal was Buy (last signal 5 candles ago)"
-  },
-  {
-    "symbol": "BHARTIARTL.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "BHARTIARTL.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "ADANIPORTS.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "ADANIPORTS.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "ASIANPAINT.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "ASIANPAINT.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "HDFCBANK.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "HDFCBANK.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "HINDALCO.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "HINDALCO.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "ITC.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "ITC.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "KOTAKBANK.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "KOTAKBANK.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "HCLTECH.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "HCLTECH.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "MARUTI.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "MARUTI.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "POWERGRID.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "POWERGRID.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "RELIANCE.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "RELIANCE.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "SUNPHARMA.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "SUNPHARMA.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "HINDUNILVR.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "HINDUNILVR.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "TATASTEEL.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "TATASTEEL.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "TATAMOTORS.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "TATAMOTORS.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "TITAN.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "TITAN.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "UPL.NS",
-    "signal_type": "Sell",
-    "candles_ago": 7,
-    "full_message": "UPL.NS: Last signal was Sell (last signal 7 candles ago)"
-  },
-  {
-    "symbol": "DRREDDY.NS",
-    "signal_type": "Buy",
-    "candles_ago": 13,
-    "full_message": "DRREDDY.NS: Last signal was Buy (last signal 13 candles ago)"
-  },
-  {
-    "symbol": "TECHM.NS",
-    "signal_type": "Buy",
-    "candles_ago": 19,
-    "full_message": "TECHM.NS: Last signal was Buy (last signal 19 candles ago)"
-  },
-  {
-    "symbol": "BRITANNIA.NS",
-    "signal_type": "Buy",
-    "candles_ago": 22,
-    "full_message": "BRITANNIA.NS: Last signal was Buy (last signal 22 candles ago)"
-  },
-  {
-    "symbol": "APOLLOHOSP.NS",
-    "signal_type": "Buy",
-    "candles_ago": 22,
-    "full_message": "APOLLOHOSP.NS: Last signal was Buy (last signal 22 candles ago)"
-  },
-  {
-    "symbol": "BAJFINANCE.NS",
-    "signal_type": "Sell",
-    "candles_ago": 23,
-    "full_message": "BAJFINANCE.NS: Last signal was Sell (last signal 23 candles ago)"
-  },
-  {
-    "symbol": "INDUSINDBK.NS",
-    "signal_type": "Sell",
-    "candles_ago": 23,
-    "full_message": "INDUSINDBK.NS: Last signal was Sell (last signal 23 candles ago)"
-  },
-  {
-    "symbol": "AXISBANK.NS",
-    "signal_type": "Sell",
-    "candles_ago": 24,
-    "full_message": "AXISBANK.NS: Last signal was Sell (last signal 24 candles ago)"
-  },
-  {
-    "symbol": "JSWSTEEL.NS",
-    "signal_type": "Buy",
-    "candles_ago": 24,
-    "full_message": "JSWSTEEL.NS: Last signal was Buy (last signal 24 candles ago)"
+    "full_message": "CIPLA.NS: Last signal was Sell (last signal 2 candles ago)"
   },
   {
     "symbol": "M&M.NS",
     "signal_type": "Buy",
-    "candles_ago": 24,
-    "full_message": "M&M.NS: Last signal was Buy (last signal 24 candles ago)"
+    "candles_ago": 2,
+    "full_message": "M&M.NS: Last signal was Buy (last signal 2 candles ago)"
+  },
+  {
+    "symbol": "KOTAKBANK.NS",
+    "signal_type": "Buy",
+    "candles_ago": 2,
+    "full_message": "KOTAKBANK.NS: Last signal was Buy (last signal 2 candles ago)"
+  },
+  {
+    "symbol": "HINDALCO.NS",
+    "signal_type": "Buy",
+    "candles_ago": 6,
+    "full_message": "HINDALCO.NS: Last signal was Buy (last signal 6 candles ago)"
+  },
+  {
+    "symbol": "INDUSINDBK.NS",
+    "signal_type": "Buy",
+    "candles_ago": 9,
+    "full_message": "INDUSINDBK.NS: Last signal was Buy (last signal 9 candles ago)"
+  },
+  {
+    "symbol": "POWERGRID.NS",
+    "signal_type": "Sell",
+    "candles_ago": 10,
+    "full_message": "POWERGRID.NS: Last signal was Sell (last signal 10 candles ago)"
+  },
+  {
+    "symbol": "APOLLOHOSP.NS",
+    "signal_type": "Buy",
+    "candles_ago": 11,
+    "full_message": "APOLLOHOSP.NS: Last signal was Buy (last signal 11 candles ago)"
+  },
+  {
+    "symbol": "HDFCBANK.NS",
+    "signal_type": "Sell",
+    "candles_ago": 11,
+    "full_message": "HDFCBANK.NS: Last signal was Sell (last signal 11 candles ago)"
   },
   {
     "symbol": "NTPC.NS",
     "signal_type": "Sell",
-    "candles_ago": 24,
-    "full_message": "NTPC.NS: Last signal was Sell (last signal 24 candles ago)"
-  },
-  {
-    "symbol": "SBILIFE.NS",
-    "signal_type": "Buy",
-    "candles_ago": 24,
-    "full_message": "SBILIFE.NS: Last signal was Buy (last signal 24 candles ago)"
-  },
-  {
-    "symbol": "LT.NS",
-    "signal_type": "Buy",
-    "candles_ago": 24,
-    "full_message": "LT.NS: Last signal was Buy (last signal 24 candles ago)"
-  },
-  {
-    "symbol": "BPCL.NS",
-    "signal_type": "Buy",
-    "candles_ago": 24,
-    "full_message": "BPCL.NS: Last signal was Buy (last signal 24 candles ago)"
-  },
-  {
-    "symbol": "ULTRACEMCO.NS",
-    "signal_type": "Buy",
-    "candles_ago": 25,
-    "full_message": "ULTRACEMCO.NS: Last signal was Buy (last signal 25 candles ago)"
-  },
-  {
-    "symbol": "ZOMATO.NS",
-    "signal_type": "Buy",
-    "candles_ago": 26,
-    "full_message": "ZOMATO.NS: Last signal was Buy (last signal 26 candles ago)"
-  },
-  {
-    "symbol": "ADANIENT.NS",
-    "signal_type": "Buy",
-    "candles_ago": 27,
-    "full_message": "ADANIENT.NS: Last signal was Buy (last signal 27 candles ago)"
-  },
-  {
-    "symbol": "GRASIM.NS",
-    "signal_type": "Sell",
-    "candles_ago": 30,
-    "full_message": "GRASIM.NS: Last signal was Sell (last signal 30 candles ago)"
+    "candles_ago": 11,
+    "full_message": "NTPC.NS: Last signal was Sell (last signal 11 candles ago)"
   },
   {
     "symbol": "SBIN.NS",
-    "signal_type": "Sell",
-    "candles_ago": 41,
-    "full_message": "SBIN.NS: Last signal was Sell (last signal 41 candles ago)"
+    "signal_type": "Buy",
+    "candles_ago": 11,
+    "full_message": "SBIN.NS: Last signal was Buy (last signal 11 candles ago)"
   },
   {
-    "symbol": "TCS.NS",
+    "symbol": "COALINDIA.NS",
     "signal_type": "Sell",
-    "candles_ago": 46,
-    "full_message": "TCS.NS: Last signal was Sell (last signal 46 candles ago)"
+    "candles_ago": 12,
+    "full_message": "COALINDIA.NS: Last signal was Sell (last signal 12 candles ago)"
+  },
+  {
+    "symbol": "DIVISLAB.NS",
+    "signal_type": "Sell",
+    "candles_ago": 12,
+    "full_message": "DIVISLAB.NS: Last signal was Sell (last signal 12 candles ago)"
+  },
+  {
+    "symbol": "BAJAJ-AUTO.NS",
+    "signal_type": "Buy",
+    "candles_ago": 13,
+    "full_message": "BAJAJ-AUTO.NS: Last signal was Buy (last signal 13 candles ago)"
+  },
+  {
+    "symbol": "BHARTIARTL.NS",
+    "signal_type": "Buy",
+    "candles_ago": 13,
+    "full_message": "BHARTIARTL.NS: Last signal was Buy (last signal 13 candles ago)"
   },
   {
     "symbol": "HDFCLIFE.NS",
     "signal_type": "Buy",
-    "candles_ago": 49,
-    "full_message": "HDFCLIFE.NS: Last signal was Buy (last signal 49 candles ago)"
+    "candles_ago": 13,
+    "full_message": "HDFCLIFE.NS: Last signal was Buy (last signal 13 candles ago)"
   },
   {
-    "symbol": "NESTLEIND.NS",
+    "symbol": "HEROMOTOCO.NS",
+    "signal_type": "Sell",
+    "candles_ago": 13,
+    "full_message": "HEROMOTOCO.NS: Last signal was Sell (last signal 13 candles ago)"
+  },
+  {
+    "symbol": "ONGC.NS",
+    "signal_type": "Sell",
+    "candles_ago": 13,
+    "full_message": "ONGC.NS: Last signal was Sell (last signal 13 candles ago)"
+  },
+  {
+    "symbol": "SBILIFE.NS",
     "signal_type": "Buy",
-    "candles_ago": 52,
-    "full_message": "NESTLEIND.NS: Last signal was Buy (last signal 52 candles ago)"
+    "candles_ago": 13,
+    "full_message": "SBILIFE.NS: Last signal was Buy (last signal 13 candles ago)"
+  },
+  {
+    "symbol": "TECHM.NS",
+    "signal_type": "Buy",
+    "candles_ago": 13,
+    "full_message": "TECHM.NS: Last signal was Buy (last signal 13 candles ago)"
+  },
+  {
+    "symbol": "TATAMOTORS.NS",
+    "signal_type": "Buy",
+    "candles_ago": 13,
+    "full_message": "TATAMOTORS.NS: Last signal was Buy (last signal 13 candles ago)"
+  },
+  {
+    "symbol": "ASIANPAINT.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "ASIANPAINT.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "ADANIPORTS.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "ADANIPORTS.NS: Last signal was Buy (last signal 15 candles ago)"
   },
   {
     "symbol": "BAJAJFINSV.NS",
     "signal_type": "Buy",
-    "candles_ago": 74,
-    "full_message": "BAJAJFINSV.NS: Last signal was Buy (last signal 74 candles ago)"
+    "candles_ago": 15,
+    "full_message": "BAJAJFINSV.NS: Last signal was Buy (last signal 15 candles ago)"
   },
   {
-    "symbol": "BAJAJ-AUTO.NS",
-    "signal_type": "Error",
-    "candles_ago": Infinity,
-    "full_message": "Error processing BAJAJ-AUTO.NS: 'Index' object has no attribute 'tz_convert'"
+    "symbol": "BRITANNIA.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "BRITANNIA.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "JSWSTEEL.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "JSWSTEEL.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "INFY.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "INFY.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "HINDUNILVR.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "HINDUNILVR.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "NESTLEIND.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "NESTLEIND.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "SUNPHARMA.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "SUNPHARMA.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "TATACONSUM.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "TATACONSUM.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "WIPRO.NS",
+    "signal_type": "Buy",
+    "candles_ago": 15,
+    "full_message": "WIPRO.NS: Last signal was Buy (last signal 15 candles ago)"
+  },
+  {
+    "symbol": "DRREDDY.NS",
+    "signal_type": "Buy",
+    "candles_ago": 17,
+    "full_message": "DRREDDY.NS: Last signal was Buy (last signal 17 candles ago)"
+  },
+  {
+    "symbol": "ITC.NS",
+    "signal_type": "Buy",
+    "candles_ago": 19,
+    "full_message": "ITC.NS: Last signal was Buy (last signal 19 candles ago)"
+  },
+  {
+    "symbol": "MARUTI.NS",
+    "signal_type": "Buy",
+    "candles_ago": 19,
+    "full_message": "MARUTI.NS: Last signal was Buy (last signal 19 candles ago)"
+  },
+  {
+    "symbol": "TCS.NS",
+    "signal_type": "Buy",
+    "candles_ago": 19,
+    "full_message": "TCS.NS: Last signal was Buy (last signal 19 candles ago)"
+  },
+  {
+    "symbol": "RELIANCE.NS",
+    "signal_type": "Buy",
+    "candles_ago": 20,
+    "full_message": "RELIANCE.NS: Last signal was Buy (last signal 20 candles ago)"
+  },
+  {
+    "symbol": "ULTRACEMCO.NS",
+    "signal_type": "Buy",
+    "candles_ago": 22,
+    "full_message": "ULTRACEMCO.NS: Last signal was Buy (last signal 22 candles ago)"
+  },
+  {
+    "symbol": "GRASIM.NS",
+    "signal_type": "Buy",
+    "candles_ago": 26,
+    "full_message": "GRASIM.NS: Last signal was Buy (last signal 26 candles ago)"
+  },
+  {
+    "symbol": "UPL.NS",
+    "signal_type": "Sell",
+    "candles_ago": 33,
+    "full_message": "UPL.NS: Last signal was Sell (last signal 33 candles ago)"
+  },
+  {
+    "symbol": "BAJFINANCE.NS",
+    "signal_type": "Buy",
+    "candles_ago": 34,
+    "full_message": "BAJFINANCE.NS: Last signal was Buy (last signal 34 candles ago)"
+  },
+  {
+    "symbol": "AXISBANK.NS",
+    "signal_type": "Buy",
+    "candles_ago": 36,
+    "full_message": "AXISBANK.NS: Last signal was Buy (last signal 36 candles ago)"
+  },
+  {
+    "symbol": "BPCL.NS",
+    "signal_type": "Sell",
+    "candles_ago": 37,
+    "full_message": "BPCL.NS: Last signal was Sell (last signal 37 candles ago)"
+  },
+  {
+    "symbol": "LT.NS",
+    "signal_type": "Sell",
+    "candles_ago": 43,
+    "full_message": "LT.NS: Last signal was Sell (last signal 43 candles ago)"
+  },
+  {
+    "symbol": "TITAN.NS",
+    "signal_type": "Sell",
+    "candles_ago": 43,
+    "full_message": "TITAN.NS: Last signal was Sell (last signal 43 candles ago)"
+  },
+  {
+    "symbol": "HCLTECH.NS",
+    "signal_type": "Buy",
+    "candles_ago": 46,
+    "full_message": "HCLTECH.NS: Last signal was Buy (last signal 46 candles ago)"
+  },
+  {
+    "symbol": "ZOMATO.NS",
+    "signal_type": "Sell",
+    "candles_ago": 63,
+    "full_message": "ZOMATO.NS: Last signal was Sell (last signal 63 candles ago)"
+  },
+  {
+    "symbol": "EICHERMOT.NS",
+    "signal_type": "Buy",
+    "candles_ago": 68,
+    "full_message": "EICHERMOT.NS: Last signal was Buy (last signal 68 candles ago)"
+  },
+  {
+    "symbol": "TATASTEEL.NS",
+    "signal_type": "Buy",
+    "candles_ago": 88,
+    "full_message": "TATASTEEL.NS: Last signal was Buy (last signal 88 candles ago)"
+  },
+  {
+    "symbol": "ICICIBANK.NS",
+    "signal_type": "Buy",
+    "candles_ago": 90,
+    "full_message": "ICICIBANK.NS: Last signal was Buy (last signal 90 candles ago)"
+  },
+  {
+    "symbol": "ADANIENT.NS",
+    "signal_type": "Buy",
+    "candles_ago": 100,
+    "full_message": "ADANIENT.NS: Last signal was Buy (last signal 100 candles ago)"
   }
 ]
